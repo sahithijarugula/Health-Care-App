@@ -11,6 +11,9 @@ We built our program using Java in Eclipse but we made the model for our app usi
 We ran into challenges when it came to finding an efficient method to collaboratively work on our hack through GitHub. In order to surpass this obstacle, we decided to manually create classes individually and merge them together on one of our team member's laptops. We also ran into problems pertaining to logic gaps in our pseudocode, but we were able to fix this by reconvening at a team, revising our pseudocode then reimplementing.
 ## Accomplishments We're Proud Of
 With three out of our four team members being beginner hackers, we are proud of the fact that we made what we originally set out to make which was a program that ran multiple services to cover as many users as possible and that too within the time limit we had.
-
+## What We Learned
+We learned the following skills from this Hack: (1) Designing a project prompt from scratch which included evaluating our team member's skill sets and choosing a prompt that would be compatible enough to incorporate and challenge our skill sets. (2) Think from the user's perspective while designing a product that would best follow a user's intuitive logic. (3) Exploring different IDEs and platforms to figure out more about collaborative coding, a valuable lesson for future hacks and individual endeavors.
+## What's Next for Pocket Doctor
+(1) We hope to expand our current prototype by accounting for more factors a user may want to consider before getting urgent care or insurance. From there we plan on merging our back-end program with our mockup model in order to develop a fully functioning product.
 
 
